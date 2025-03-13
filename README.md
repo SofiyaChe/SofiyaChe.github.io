@@ -7,7 +7,7 @@ RESTful API development<br>
 Basics of database management (MySQL)<br>
 Testing (JUnit, Mockito)
 ________________________________________
-**My projects:**<br>
+👩🏻‍💻**My projects:**<br>
 ✔ <br>
 ✔ <br>
 Now I am working on a project to develop the server-side of an application for calculating premiums for travel insurance risks.<br>
