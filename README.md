@@ -6,9 +6,11 @@ Java, Spring Boot, Hibernate
 RESTful API development
 Basics of database management (MySQL)
 Testing (JUnit, Mockito)
-
+________________________________________
 **My projects:**
 
+
+________________________________________
 🛠️ Languages and Tools :
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg" width="50" />
