@@ -1,10 +1,10 @@
 Hi everyone!
 **I'm Sofiya- I'm interested in Java and want to become Java developer.**
 
-**What I am learning:**
-Java, Spring Boot, Hibernate
-RESTful API development
-Basics of database management (MySQL)
+**What I am learning:**<br>
+Java, Spring Boot, Hibernate<br>
+RESTful API development<br>
+Basics of database management (MySQL)<br>
 Testing (JUnit, Mockito)
 ________________________________________
 **My projects:**
