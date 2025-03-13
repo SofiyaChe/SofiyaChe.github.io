@@ -11,7 +11,7 @@ ________________________________________
 ✔ <br>
 ✔ <br>
 Now I am working on a project to develop the server-side of an application for calculating premiums for travel insurance risks.<br>
-You can see the project here
+✔ You can see the project here
 
 ________________________________________
 🛠️ Languages and Tools :
