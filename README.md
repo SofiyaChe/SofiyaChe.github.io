@@ -5,7 +5,7 @@ Hi everyone!<br>
 * Java, Spring Boot, Hibernate<br>
 * RESTful API development<br>
 * Basics of database management (MySQL)<br>
-* Testing (JUnit, Mockito)
+* Testing (JUnit, Mockito)<br>
 ________________________________________
 **My projects:**<br>
 * project 1<br>
