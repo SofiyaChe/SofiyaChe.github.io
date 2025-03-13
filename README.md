@@ -1,5 +1,5 @@
-Hi everyone!
-**I'm Sofiya- I'm interested in Java and want to become Java developer.**
+Hi everyone!<br>
+**I'm Sofiya - I'm interested in Java and want to become Java developer.**
 
 **What I am learning:**<br>
 Java, Spring Boot, Hibernate<br>
@@ -8,7 +8,8 @@ Basics of database management (MySQL)<br>
 Testing (JUnit, Mockito)
 ________________________________________
 **My projects:**
-
+Now I am working on a project to develop the server-side of an application for calculating premiums for travel insurance risks.<br>
+You can see the project here
 
 ________________________________________
 🛠️ Languages and Tools :
